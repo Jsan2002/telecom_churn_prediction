@@ -103,11 +103,8 @@ Below are key visualizations generated during the project:
 1. **Feature Correlation Heatmap**  
    ![Feature Correlation Heatmap](https://github.com/Jsan2002/telecom_churn_prediction/blob/main/Graphimg/heatmap.png)
 
-3. **Class Distribution Before and After SMOTE**  
-   ![Class Distribution](Graphimg/class_distribution.png)
-
-4. **Model Performance Comparison**  
-   ![Model Performance](Graphimg/model_performance.png)
+2. **ROC curve**  
+   ![ROC curve](https://github.com/Jsan2002/telecom_churn_prediction/blob/main/Graphimg/ROC%20curve%5C.png)
 
 ---
 
