@@ -101,12 +101,12 @@ This project involves predicting customer churn in the telecom sector using mach
 Below are key visualizations generated during the project:
 
 1. **Feature Correlation Heatmap**  
-   ![Feature Correlation Heatmap](Graphimg/feature_correlation.png)
+   ![Feature Correlation Heatmap](https://github.com/Jsan2002/telecom_churn_prediction/blob/main/Graphimg/heatmap.png)
 
-2. **Class Distribution Before and After SMOTE**  
+3. **Class Distribution Before and After SMOTE**  
    ![Class Distribution](Graphimg/class_distribution.png)
 
-3. **Model Performance Comparison**  
+4. **Model Performance Comparison**  
    ![Model Performance](Graphimg/model_performance.png)
 
 ---
